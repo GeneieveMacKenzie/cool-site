@@ -32,7 +32,6 @@
 .column-left{
     display: inline-block;
     width: 500px;
-    height: 600px;
     padding-left:200px;
 }
 .column-right{
@@ -40,6 +39,7 @@
     width: 200px;
     height: 400px;
     margin-left: 30px;
+    position: 
 }
 .column-top{
     display: inline-block;
